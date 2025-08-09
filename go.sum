@@ -27,8 +27,8 @@ github.com/coreos/go-systemd v0.0.0-20181012123002-c6f51f82210d/go.mod h1:F5haX7
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/dippysan/libdns_spaceship v1.0.5 h1:9tQTVyd/90aTMYWBnZV6FhXD/ltJMn8dUcogSkfCnAQ=
-github.com/dippysan/libdns_spaceship v1.0.5/go.mod h1:GirMbfySTJofmxi6T4t0uCckmA35CA2clT3AhFOJn4Y=
+github.com/dippysan/libdns_spaceship v1.0.6 h1:jEax20wCyz3ZmpBLTC00MI6h5UhW3Lj5/1OduYKrtLk=
+github.com/dippysan/libdns_spaceship v1.0.6/go.mod h1:GirMbfySTJofmxi6T4t0uCckmA35CA2clT3AhFOJn4Y=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
 github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568/go.mod h1:xEzjJPgXI435gkrCt3MPfRiAkVrwSbHsst4LCFVfpJc=
 github.com/francoispqt/gojay v1.2.13 h1:d2m3sFjloqoIUQU3TsHBgj6qg/BVGlTBeHDUmyJnXKk=
